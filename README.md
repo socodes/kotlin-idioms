@@ -1,4 +1,4 @@
-## Idioms section in the Kotlin Docs.
+# Idioms section in the Kotlin Docs.
 
 -Lists
 -When conditioning
